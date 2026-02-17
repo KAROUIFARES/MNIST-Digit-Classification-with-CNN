@@ -27,8 +27,8 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/KAROUIFARES/MNIST-Digit-Classification-with-CNN
+   cd MNIST-Digit-Classification-with-CNN
    ```
 
 2. Install dependencies:
